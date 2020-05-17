@@ -15,7 +15,7 @@ Introduction to Web Development
     - Associated slides: [Intro to the Course (PDF)](1a-intro-to-the-course/intro-to-the-course.pdf)
     - Required for participation grade, due: Wednesday, May 20
 - **Lecture 2: Introduction to the Industry**
-- [ ] Lab 1: Account Setup (coming soon)
+- [ ] [Lab 1: Account Setup](https://docs.csc170.org/lab01-account-setup/instructions.html) (due: Monday, May 18 ...today!)
 
 ## Ongoing Information
 
