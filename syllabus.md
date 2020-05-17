@@ -50,10 +50,9 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 1.6% of the overall grade |
-| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **40%**<br/>Project 1: 10%<br>Project 2: 15%<br>Project 3: 15% |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **30%**<br/>Project 1: 10%<br>Project 2: 10%<br>Project 3: 10% |
 | **Exam<s>s</s>**<br>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester. | **30%**<br>Midterm exam: 15%<br>Final exam: 15%              |
-
-
+| **Participation**<br>There are several required activities that students must perform for the benefit of the class.  The total of all activities will count equally toward the total of 10% | **10%**<br>Each participation activity will be worth about 0.5% of the overall grade |
 
 ## Labs and Project Assignments
 **Assignments** are made available via the Course Documentation website after most lectures and can be completed independently on one's own Internet-connected computer (Mac or PC).  
