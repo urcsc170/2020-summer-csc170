@@ -8,7 +8,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Watch [Lecture Video: Intro to the Course (Panopto 23:36)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46ca07f7-926d-481a-935a-abbe013e4696)  (due: Wednesday, May 20)
     - Associated slides: [Intro to the Course (PDF)](1a-intro-to-the-course/intro-to-the-course.pdf)
 - **Lecture 2: Introduction to the Industry**
-- [ ] Lab 1: Account Setup (coming soon)
+- [ ] [Lab 1: Account Setup](https://docs.csc170.org/lab01-account-setup/instructions.html) (due: Monday, May 18 ...today!)
 
 ## Wednesday, May 20
 - Lecture: The Internet
