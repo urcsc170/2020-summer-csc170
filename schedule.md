@@ -2,10 +2,12 @@
 This schedule is subject to modification throughout the semester. Always check with the professor if you have any questions.
 
 ## Monday, May 18 
-- Lecture: Introduction to the Course
-
-- Lecture: Introduction to the Industry
-
+- **Lecture 1: Introduction to the Course**
+  - Fill out [CSC 170 Polling Questions (Google Form)](https://forms.gle/5NwC8bxfyBb29fvJ8) (due: Wednesday, May 20)
+  - Create a Slack account: [ join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup) (due: Wednesday, May 20)
+  - Watch [Lecture Video: Intro to the Course (Panopto 23:36)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46ca07f7-926d-481a-935a-abbe013e4696)  (due: Wednesday, May 20)
+    - Associated slides: [Intro to the Course (PDF)](1a-intro-to-the-course/intro-to-the-course.pdf)
+- **Lecture 2: Introduction to the Industry**
 - [ ] Lab 1: Account Setup (coming soon)
 
 ## Wednesday, May 20
