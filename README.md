@@ -14,7 +14,7 @@ Introduction to Web Development
   - Watch [Lecture Video: Intro to the Course (Panopto 23:36)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46ca07f7-926d-481a-935a-abbe013e4696) 
     - Associated slides: [Intro to the Course (PDF)](1a-intro-to-the-course/intro-to-the-course.pdf)
     - Required for participation grade, due: Wednesday, May 20
-- **Lecture 2: Introduction to the Industry**
+- **Lecture 2: Introduction to the Industry** (coming soon)
 - [ ] [Lab 1: Account Setup](https://docs.csc170.org/lab01-account-setup/instructions.html) (due: Monday, May 18 ...today!)
 
 ## Ongoing Information
