@@ -6,8 +6,11 @@ This schedule is subject to modification throughout the semester. Always check w
   - Fill out [CSC 170 Polling Questions (Google Form)](https://forms.gle/5NwC8bxfyBb29fvJ8) (due: Wednesday, May 20)
   - Create a Slack account: [ join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup) (due: Wednesday, May 20)
   - Watch [Lecture Video: Intro to the Course (Panopto 23:36)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46ca07f7-926d-481a-935a-abbe013e4696)  (due: Wednesday, May 20)
-    - Associated slides: [Intro to the Course (PDF)](1a-intro-to-the-course/intro-to-the-course.pdf)
+    - Associated slides: [Intro to the Course (PDF)](01a-intro-to-the-course/intro-to-the-course.pdf)
 - **Lecture 2: Introduction to the Industry**
+  - Watch [Lecture Video: Intro to the Industry (Panopto 27:05)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c50c0d76-cff4-4054-9e3b-abbf0130dca4) (due: Wednesday, May 20)
+    - Associated video (embedded in the lecture): [What is the World Wide Web (YouTube)](https://youtu.be/J8hzJxb0rpc)
+    - Associated slides: [Intro to the Industry (PDF)](01b-intro-to-the-industry/intro-to-the-industry.pdf)
 - [ ] [Lab 1: Account Setup](https://docs.csc170.org/lab01-account-setup/instructions.html) (due: Monday, May 18 ...today!)
 
 ## Wednesday, May 20
