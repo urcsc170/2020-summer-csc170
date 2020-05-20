@@ -19,7 +19,6 @@ Introduction to Web Development
 
 
 - Watch [**Lecture 4 Video: The Web and HTML** (Panopto xx:xx)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f6ddba-2b74-4101-a68e-abc1013bc223) (due: Friday, May 22)
-
   - Associated slides: [The Web and HTML (PDF)](02b-the-web-and-html/the-web-and-html.pdf)
 - Watch Lab 3 Video (coming soon)
 - Do [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Friday, May 22)
