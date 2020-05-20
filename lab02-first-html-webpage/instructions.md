@@ -40,7 +40,7 @@ For this assignment, you can use the "comp" provided (see last page of this docu
 
 - Get some placeholder text (a.k.a dummy text or lorem ipsum) and keep it handy. 
 
-- Get an FPO image.  For our purposes, you need a small image, **no wider than say 300 pixels** or so, and the file type must be: *jpg*, *png* or *gif*. 
+- Get an FPO image (FPO stands for *For Position Only*.  For our purposes, you need a small image, **no wider than say 300 pixels** or so, and the file type must be: *jpg*, *png* or *gif*. 
 
 ### Start filling your HTML file with content
 
