@@ -29,11 +29,11 @@ This schedule is subject to modification throughout the semester. Always check w
   ### Part 2
 
 
-  - Watch [**Lecture 4 Video: The Web and HTML** (Panopto 01:04:57:xx)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f6ddba-2b74-4101-a68e-abc1013bc223) (due: Friday, May 22)
+  - Watch [**Lecture 4 Video: The Web and HTML** (Panopto 01:04:57)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f6ddba-2b74-4101-a68e-abc1013bc223) (due: Friday, May 22)
 
     - Associated slides: [The Web and HTML (PDF)](02b-the-web-and-html/the-web-and-html.pdf)
-  - Watch Lab 3 Video (coming soon)
-  - Do [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Friday, May 22)
+  - Watch [Lab 3 Video (Panopto 12:30)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d802d4fb-4314-4051-8c41-abc10168f2a5) (optional)
+- Do [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Friday, May 22)
 
 ## Friday, May 22, 2020
 - Lecture: Web Document Structure
