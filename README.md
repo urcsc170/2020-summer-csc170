@@ -38,3 +38,5 @@ Introduction to Web Development
 - Watch [Lab 3 Video (Panopto 12:30)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d802d4fb-4314-4051-8c41-abc10168f2a5) (optional)
 - Do [Lab 3: Content Prep](lab03-content-prep/instructions.md) (due: Friday, May 22)
 
+
+
