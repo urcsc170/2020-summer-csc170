@@ -21,3 +21,4 @@ Introduction to Web Development
 
 - Watch Project 1 Video (coming soon)
 - Do [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Friday, May 29)
+
