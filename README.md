@@ -19,6 +19,7 @@ Introduction to Web Development
 
 #### Part 2
 
-- Watch Project 1 Video (coming soon)
+- Watch [Project 1 Video (Panopto 10:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb2e44b4-b3b7-4711-a564-abc301292fe0)
+  - Associated slides: [Project 1 Review (PDF)](03b-project1-review/project1-review.pdf)
 - Do [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Friday, May 29)
 
