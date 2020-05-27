@@ -1,20 +1,16 @@
-# Lab 5: CSS for Formatting (Part 1)
+# Lab 5: CSS for Formatting, Part 1
 
-*Due: Wednesday, February 5, 2020*
+*Due: Friday, May 29, 2020*
 
 In this assignment you simply need to follow the instructions to add pre-defined styles to your HTML document.  You may have to lookup the syntax on how to write the CSS code, but the properties you need to use and the values that go with them are all in the instructions below.
 
 *Please continue to curb your enthusiasm for creativity!  However the **next** lab (Lab 6) will let you unleash some of that creativity. But for now, just follow the instructions.*
 
-![peanuts-painting-flowers](media\peanuts-painting-flowers.jpg)
-
-*...today, we're painting flowers.*
-
 ## Step 1: Make a copy of Lab 4
 
 - After you’ve completed Lab 4 make a copy of all the files in it to a new folder named **lab05**
-
-- In your new **lab05** folder, create another new folder named **css**
+- If you haven't had Lab 4 graded yet, or you didn't get 100% on it, mistakes from Lab 4 will carry forward and you *may* lose points on Lab 5 because of it.  You may carry-on with Lab 5, but just be aware of that.
+- In your new **lab05** folder, create a new folder named **css**
 
 ## Step 2: Link a CSS file
 
@@ -46,7 +42,7 @@ Remember the syntax for CSS:
 
 - The selector (like `body`) followed by curly braces (`{` and `}`)
 
-- Inside the curly braces are the declarations
+- Inside the curly braces are the declarations; remember, if there are multiple declarations for a single target, group them using the code-style demonstrated in the last lecture
 
 - Each declaration property ends with a colon (`: `)
 
@@ -57,29 +53,29 @@ Remember the syntax for CSS:
 - [ ] As you write CSS code, use lots of **white space**! Make sure you indent and space your CSS selectors and declarations appropriately to make it easy to read the code.
 - [ ] Give the entire web page the following set of **default styles**<br> (Hint: to create *default styles* for a webpage use the `body {}` selector in your CSS file to set styles that will “cascade” throughout the document); the following styles are required:
 
-  - **Background color** of `#DFEFF1` 
+  - **Background color** of `#DFEFF0` 
 
   - Text **color** of `#333333` 
 
   - **Font family** of: `Arial, Helvetica, sans-serif`
 - [ ] All **first level headings** should be styled like this: 
 
-  - Text **color** of `#AD235E`
+  - Text **color** of `#AD235D`
 
-  - A border underneath the first level heading so it has a **bottom border** that is one **1px** , **solid** and **color**ed: `#AD235E`
+  - A border underneath the first level heading so it has a **bottom border** that is one **1px** , **solid** and **color**ed: `#AD235D`
 - [ ] All second level headings should be styled like this:
 
   - A **font style** of italic
 
   - A **font weight** of normal (i.e., not the default which is bold)
 
-  - No **margin** (i.e. `0px`) along their **bottom** side only
+  - No **margin** (i.e. `0px`) along their **bottom** side <u>only</u>
 - [ ] All paragraphs should have
 
-  - No **margin** (i.e. `0px`) along their **top** side only
+  - No **margin** (i.e. `0px`) along their **top** side <u>only</u>
 
-  - A **line height** of `1.2em`
-- [ ] Set the lists (**ol** and **ul**) so they have `15px` of **padding** on their **left**
+  - A **line height** of `1.5em`
+- [ ] Set the lists (**ol** and **ul**) so they have `12px` of **padding** on their **left**
   - Note: write the style for both OL and UL regardless of whether you actually used them in your HTML document
 - [ ] Set all the **figure** elements in your document so they **float** to the **right**
 - [ ] Also set the **figure** elements so they have **20px** of **margin** on their **left**

@@ -57,13 +57,19 @@ This schedule is subject to modification throughout the semester. Always check w
 - Memorial Day observed (no classes)
 
 ## Wednesday, May 27, 2020
-- Lecture: Webpage Presentation, part 1
+### Part 1: Web Presentation
 
-- [ ] Lab 5: CSS for Formatting, part 1
+- Watch [Lecture 6 Video: Web Presentation, Part 1 (Panopto 51:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b850b27-c330-400f-b9c1-abc70160782c) (due: Friday, May 29)
+  - Associated slides: [CSS for Formatting 1 (PDF)](04a-web-presentation1/css-for-formatting1.pdf)
+  - [MDN web docs: Color Keywords Table (website)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table)
+  - [Google Color Picker Tool (website)](https://www.google.com/search?q=color+picker+tool)
+  - [Adobe Color Palette Generator (website)](https://color.adobe.com/create/color-wheel)
+- Watch [Lab 5 Video (Panopto 5:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=623e8a29-e195-450d-aaf5-abc800ebed5b)
+- Do [Lab 5: CSS for Formatting, Part 1](https://docs.csc170.org/lab05-css-for-formatting1/instructions.html) (due: Friday, May 29)
 
-- Lecture: Webpage Presentation, part 2
+### Part 2: Web Presentation, Continued
 
-- [ ] Lab 6: CSS for Formatting, part 2
+- [coming soon]
 
 ## Friday, May 29, 2020
 - Lecture: Webpage Layout, part 1

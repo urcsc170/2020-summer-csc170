@@ -4,21 +4,23 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Friday, May 22
+## Wednesday, May 27
 
-### Part 1: Web Document Structure
+### Part 1: Web Presentation
 
-- Watch [Lecture 5 Video: Web Document Structure (Panopto 41:37)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3eeb0b78-9a54-4d69-8aa7-abc3000a2ba4) (due: Wednesday, May 27)
-  - Associated slides: [Web Document Structure (PDF)](03a-web-document-structure/web-document-structure.pdf)
-  - Associated video (embedded in the lecture): [The Machine is Us-ing Us (YouTube)](https://youtu.be/NLlGopyXT_g)
-  - [HTML Semantic Elements (W3schools.com)](https://www.w3schools.com/html/html5_semantic_elements.asp)
-  - Demonstration file: [demo.html (ZIP)](03a-web-document-structure/demo.zip)
-- Watch [Lab 4 Video (Panopto 6:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=790318ef-753d-4dd2-b4cd-abc300e44c84) 
-- Do [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) (due: Wednesday, May 27)
+- Watch [Lecture 6 Video: Web Presentation, Part 1 (Panopto 51:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b850b27-c330-400f-b9c1-abc70160782c) (due: Friday, May 29)
+  - Associated slides: [CSS for Formatting 1 (PDF)](04a-web-presentation1/css-for-formatting1.pdf)
+  - [MDN web docs: Color Keywords Table (website)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table)
+  - [Google Color Picker Tool (website)](https://www.google.com/search?q=color+picker+tool)
+  - [Adobe Color Palette Generator (website)](https://color.adobe.com/create/color-wheel)
+- Watch [Lab 5 Video (Panopto 5:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=623e8a29-e195-450d-aaf5-abc800ebed5b)
+- Do [Lab 5: CSS for Formatting, Part 1](https://docs.csc170.org/lab05-css-for-formatting1/instructions.html) (due: Friday, May 29)
 
-### Part 2: Project 1 - Classic HTML Document
+### Part 2: Web Presentation, Continued
 
-- Watch [Project 1 Video (Panopto 10:26)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb2e44b4-b3b7-4711-a564-abc301292fe0)
-  - Associated slides: [Project 1 Review (PDF)](03b-project1-review/project1-review.pdf)
-- Do [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Friday, May 29)
+- [coming soon]
+
+### Also...
+
+- Continue working on: [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md) (due: Friday, May 29)
 
