@@ -14,7 +14,7 @@ Introduction to Web Development
   - [Google Color Picker Tool (website)](https://www.google.com/search?q=color+picker+tool)
   - [Adobe Color Palette Generator (website)](https://color.adobe.com/create/color-wheel)
 - Watch [Lab 5 Video (Panopto 5:50)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=623e8a29-e195-450d-aaf5-abc800ebed5b)
-- Do [Lab 5: CSS for Formatting, Part 1](https://docs.csc170.org/lab05-css-for-formatting1/instructions.html) (due: Friday, May 29)
+- Do [Lab 5: CSS for Formatting, Part 1](lab05-css-for-formatting1/instructions.md) (due: Friday, May 29)
 
 ### Part 2: Web Presentation, Continued
 
@@ -23,7 +23,7 @@ Introduction to Web Development
   - [Pseudo Class Selectors (website)](https://css-tricks.com/pseudo-class-selectors/)
   - Demonstration files: [demo.html (ZIP)](04b-web-presentation2/demo.zip)
 - Watch Lab 6 Video (coming soon)
-- Do Lab 6: CSS for Formatting, Part 2 (coming soon)
+- Do [Lab 6: CSS for Formatting, Part 2](lab06-css-for-formatting2/instructions.md) (due: Monday, June 1 *...longer than usual!*)
 
 ### Also...
 
