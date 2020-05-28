@@ -69,7 +69,12 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Part 2: Web Presentation, Continued
 
-- [coming soon]
+- Watch [Lecture 7 Video: Web Presentation, Part 2 (Panopto xx:xx)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f986680e-dc8a-44ac-b2e0-abc8015839de) (due: Friday, May 29)
+  - Associated slides: [CSS for Formatting 2 (PDF)](04b-web-presentation2/css-for-formatting2.pdf)
+  - [Pseudo Class Selectors (website)](https://css-tricks.com/pseudo-class-selectors/)
+  - Demonstration files: [demo.html (ZIP)](04b-web-presentation2/demo.zip)
+- Watch Lab 6 Video (coming soon)
+- Do Lab 6: CSS for Formatting, Part 2 (coming soon)
 
 ## Friday, May 29, 2020
 - Lecture: Webpage Layout, part 1
