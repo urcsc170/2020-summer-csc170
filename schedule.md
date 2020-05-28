@@ -77,20 +77,17 @@ This schedule is subject to modification throughout the semester. Always check w
 - Do [Lab 6: CSS for Formatting, Part 2](lab06-css-for-formatting2/instructions.md) (due: Monday, June 1 *...longer than usual!*)
 
 ## Friday, May 29, 2020
+- Hints & Tips Meeting
 - Lecture: Webpage Layout, part 1
-
 - Lecture: Webpage Layout, part 2
-
-- [ ] Lab 7: CSS for Layout
 
 
 <hr>
 
 ## Monday, June 1, 2020
 - Lecture: Website Navigation, part 2
-
+- [ ] Lab 7: CSS for Layout
 - [ ] Lab 8: CSS for Navigation
-
 - Lecture: Project 2 Instructions
 
 ## Wednesday, June 3, 2020
