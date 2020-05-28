@@ -73,7 +73,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [CSS for Formatting 2 (PDF)](04b-web-presentation2/css-for-formatting2.pdf)
   - [Pseudo Class Selectors (website)](https://css-tricks.com/pseudo-class-selectors/)
   - Demonstration files: [demo.html (ZIP)](04b-web-presentation2/demo.zip)
-- Watch Lab 6 Video (coming soon)
+- Watch [Lab 6 Video (Panopto 5:27)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06e823a1-9da4-49fe-b2ee-abc901113257)
 - Do [Lab 6: CSS for Formatting, Part 2](lab06-css-for-formatting2/instructions.md) (due: Monday, June 1 *...longer than usual!*)
 
 ## Friday, May 29, 2020
