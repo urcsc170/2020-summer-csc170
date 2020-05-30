@@ -77,12 +77,20 @@ This schedule is subject to modification throughout the semester. Always check w
 - Do [Lab 6: CSS for Formatting, Part 2](lab06-css-for-formatting2/instructions.md) (due: Monday, June 1 *...longer than usual!*)
 
 ## Friday, May 29, 2020
-- Hints & Tips Meeting
-- Lecture: Webpage Layout, part 1
-- Lecture: Webpage Layout, part 2
+- Watch [Hints & Tips Meeting #1 (Panopto 52:44)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36ac1ae6-88d9-4679-bf43-abca010fcd6b)
 
+### Part 1: Web Presentation for Layout
 
-<hr>
+- Watch [Lecture 7 Video: Web Presentation for Layout, Part 1 (Panopto xx:xx)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7045295a-6905-4861-873a-abcb015059ab) (due: Wednesday, June 3)
+  - Associated slides: [CSS for Layout 1 (PDF)](lab05-css-for-formatting1/css-for-layout1.pdf)
+  - [The Evolution of Web Design (website)](https://fabianburghardt.de/webolution/)
+  - [NYT Snow Fall Article (website)](http://www.nytimes.com/projects/2012/snow-fall/index.html)
+
+### Part 2: Web Presentation for Layout, Continued
+
+- Watch Lecture 8 Video (coming soon)
+- Lab 7: (coming Monday, June 1)
+
 
 ## Monday, June 1, 2020
 - Lecture: Website Navigation, part 2
