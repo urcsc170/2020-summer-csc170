@@ -12,6 +12,7 @@ Introduction to Web Development
   - Associated slides: [CSS for Layout 2 (PDF)](05b-web-layout2/css-for-layout2.pdf)
   - Demonstration files: [Flex and Grid Demo Files (ZIP)](05b-web-layout2/flex-and-grid-demos.zip)
   - Demonstration files: [Old Fashioned Layout Examples (ZIP)](05b-web-layout2/old-fashioned-layout-examples.zip)
+  - [The Difference Between Explicit and Implicit Grids (CSS Tricks article)](https://css-tricks.com/difference-explicit-implicit-grids/)
   - [Online **CSS Flex** Code Generator - one example - maybe you can find better? (website)](https://the-echoplex.net/flexyboxes/)
   - [Online **CSS Grid** Code Generator - one example - maybe you can find better? (website)](https://cssgr.id/)
 - Watch Lab 7 Video (coming soon)
