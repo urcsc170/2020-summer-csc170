@@ -98,8 +98,8 @@ This schedule is subject to modification throughout the semester. Always check w
   - [The Difference Between Explicit and Implicit Grids (CSS Tricks article)](https://css-tricks.com/difference-explicit-implicit-grids/)
   - [Online **CSS Flex** Code Generator - one example - maybe you can find better? (website)](https://the-echoplex.net/flexyboxes/)
   - [Online **CSS Grid** Code Generator - one example - maybe you can find better? (website)](https://cssgr.id/)
-- Watch Lab 7 Video (coming soon)
-- [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Wednesday, June 3)
+- Watch [Lab 7 Video (Panopto 30:18)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fbd3ce2-84e0-4432-924d-abcd0173be54)
+- Do [Lab 7: CSS for Layout](lab07-css-for-layout/instructions.md) (due: Wednesday, June 3)
 
 ### Web Presentation for Navigation, Part 1
 
