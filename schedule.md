@@ -82,7 +82,7 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Part 1: Web Presentation for Layout
 
 - Watch [Lecture 8 Video: Web Presentation for Layout, Part 1 (Panopto 1:01:54)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7045295a-6905-4861-873a-abcb015059ab) (due: Wednesday, June 3)
-  - Associated slides: [CSS for Layout 1 (PDF)](lab05-css-for-formatting1/css-for-layout1.pdf)
+  - Associated slides: [CSS for Layout 1 (PDF)](05a-web-layout1/css-for-layout1.pdf)
   - [The Evolution of Web Design (website)](https://fabianburghardt.de/webolution/)
   - [NYT Snow Fall Article (website)](http://www.nytimes.com/projects/2012/snow-fall/index.html)
 
