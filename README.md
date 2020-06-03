@@ -8,9 +8,8 @@ Introduction to Web Development
 
 ### Web Presentation for Navigation, Part 2
 
+- Watch [Lab 8 Video: (Panopto 7:23)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90b94d22-af4c-4e8c-abc7-abcf01198d26)
 - Do [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (Due: Monday, June 8, 2020 - extended time!)
-
-- VIDEO FOR Lab 8: CSS for Navigation (coming soon)
 - LECTURE VIDEO Website Navigation, part 2 (coming soon)
 
 ### Images for the Web
