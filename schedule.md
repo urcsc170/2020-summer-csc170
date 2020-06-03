@@ -109,19 +109,16 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, June 3, 2020
 
-### Web Presentation for Navigation, Part 2
+### Web Presentation for Navigation, Part 1
 
-- Website Navigation, part 2
-- Lab 8: CSS for Navigation
-
-### Project 2: CSS for Formatting and Layout
-
-- Project 2 Instructions
+- Do [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (Due: Monday, June 8, 2020 - extended time!)
+- VIDEO FOR Lab 8: CSS for Navigation (coming soon)
+- LECTURE VIDEO Website Navigation, part 2 (coming soon)
 
 ### Images for the Web
 
-- Images for the Web
-- Lab 9: Images for the Web
+- LECTURE VIDEO Images for the Web (coming soon)
+- VIDEO FOR Lab 9: Images for the Web (coming soon)
 
 ## Friday, June 5, 2020
 
@@ -135,6 +132,10 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Monday, June 8, 2020
 - MIDTERM EXAM
+
+### Project 2
+
+- Project 2 Instructions
 
 ## Wednesday, June 10, 2020
 
@@ -150,7 +151,6 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Friday, June 12, 2020
 - Hints & Tips Meeting 3
-- Note: Project 2 is due
 
 ### HTML Forms, Part 2
 
@@ -158,6 +158,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - Lab 13: HTML Forms, part 2
 
 ## Monday, June 15, 2020
+
+- Note: Project 2 is due
 
 ### Webpage Behavior, part 1
 
@@ -167,10 +169,6 @@ This schedule is subject to modification throughout the semester. Always check w
 ### Webpage Behavior, part 2
 
 - Webpage Behavior, part 2
-
-### Project 3: Multi-page Website
-
-- Project 3 Instructions
 
 ## Wednesday, June 17, 2020
 
@@ -182,6 +180,10 @@ This schedule is subject to modification throughout the semester. Always check w
 
 - JavaScript Plugins
 - Lab 15: JavaScript Libraries and Plugins
+
+### Project 3: Multi-page Website
+
+- Project 3 Instructions
 
 ## Friday, June 19, 2020
 
@@ -215,3 +217,4 @@ This schedule is subject to modification throughout the semester. Always check w
 ## Friday, June 26, 2020
 - FINAL EXAM
 
+- Note: Project 3 is due
