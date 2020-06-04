@@ -123,7 +123,7 @@ This schedule is subject to modification throughout the semester. Always check w
   - Associated slides: [Images for the Web (PDF)](07b-images-for-the-web/images-for-the-web.pdf)
   - [Background Images Demo Files (ZIP)](07b-images-for-the-web/background-image_demo.zip)
   - [SVG Example Files (ZIP)](07b-images-for-the-web/svg_examples.zip)
-- Watch Lab 9 Video (coming soon)
+- Watch [Lab 9 Video (Panopto 4:18)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb55022e-2a53-4172-8c84-abd00168a69d)
 - Do [Lab 9: Images for the Web](lab09-background-images/instructions.md) (due: Monday, June 8)
 
 ## Friday, June 5, 2020
