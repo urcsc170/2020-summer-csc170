@@ -25,6 +25,6 @@ Introduction to Web Development
 ### Web Presentation for Navigation, Part 1
 
 - **LATE ...but here you go:** Watch [Lecture 10 Video: Website Navigation, part 1 (Panopto 51:15)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d667989f-d8ac-406c-a53b-abce013d9f3e) (due: Friday, June 5)
-  - Associated slides: [CSS for Navigation (PDF)](06b-web-navigation1/css-for-navigation.pdf)
-  - Demonstration files: [Basic Navigation (ZIP)](06b-web-navigation1/demo_basic-navigation.zip)
+  - Associated slides: [CSS for Navigation (PDF)](06a-web-navigation1/css-for-navigation.pdf)
+  - Demonstration files: [Basic Navigation (ZIP)](06a-web-navigation1/demo_basic-navigation.zip)
 
