@@ -114,6 +114,8 @@ This schedule is subject to modification throughout the semester. Always check w
 - Watch [Lab 8 Video: (Panopto 7:23)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90b94d22-af4c-4e8c-abc7-abcf01198d26)
 - Do [Lab 8: CSS for Navigation](lab08-css-for-navigation/instructions.md) (Due: Monday, June 8, 2020 - extended time!)
 - Watch [Lecture 11 Video: Website Navigation, part 2 (Panopto 43:02)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c145e04e-0ca4-4d18-8158-abcf016a1575) (due: Friday, June 5)
+  - Associated slides: [CSS Positioning (PDF)](07a-web-navigation2/css-positioning.pdf)
+  - Demonstration files: [Advanced Navigation (ZIP)](07a-web-navigation2/demo_advanced-navigation.zip)
 
 ### Images for the Web
 
