@@ -4,6 +4,16 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
+## Friday, June 5, 2020
+
+- Hints & Tips Meeting 2, and Midterm Prep
+  - [Zoom meeting link](https://rochester.zoom.us/j/98896706677) (password provided in Slack)
+
+### Localhost
+
+- Introduction to localhost
+- Lab 11: Localhost
+
 ## Wednesday, June 3, 2020
 
 ### Web Presentation for Navigation, Part 2

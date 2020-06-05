@@ -132,7 +132,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Localhost
 
-- WAMP and MAMP Introduction
+- Introduction to localhost
 - Lab 11: Localhost
 
 
