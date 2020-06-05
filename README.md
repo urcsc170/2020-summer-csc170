@@ -6,8 +6,7 @@ Introduction to Web Development
 
 ## Friday, June 5, 2020
 
-- Hints & Tips Meeting 2, and Midterm Prep
-  - [Zoom meeting link](https://rochester.zoom.us/j/98896706677) (password provided in Slack)
+- Watch [Hints & Tips Meeting 2, and Midterm Prep (Panopto 59:55)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=947c60b1-9aac-40fa-a7ea-abd1013b49f8)
 
 ### Localhost
 
