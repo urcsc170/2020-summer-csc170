@@ -11,5 +11,6 @@ Introduction to Web Development
 ### Localhost
 
 - Watch [Lecture 13 Video: localhost (Panopto 25:37)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1824d3b-4c3a-4170-9f60-abd101784d3d) (due: Wednesday, June 10)
+  - Associated slides: [localhost (PDF)](08b-localhost/localhost.pdf)
 - Lab 11: Localhost (coming soon)
 
