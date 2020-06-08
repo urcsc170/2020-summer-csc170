@@ -48,7 +48,9 @@ Required: a **columnar layout** is any layout where some of the content is posit
 - You may *not* create a simple C-Clamp layout!  You must do better than that. Suggestions...
   - Look at the elements you created in Project 1 and the amount of content in each block.  Look for patterns that might work well for page layout. 
   - Draw a wireframe diagram (on good ol' paper?) before you start trying to code anything.  Then try to replicate the wireframe using an online css grid generator tool (...google it!)
+
   ![figure1](media/figure1.jpg)
+
 - If need be, you can add/change the structure of Project 1 to achieve a better layout.  It's not preferred, but it is acceptable in CSC 170.  You can also add, swap-out or resize images as needed.
 - You can use either of the approved following page layout techniques:
   - **CSS Grid** for two-dimensional positioning of content; best used for overall page layout
