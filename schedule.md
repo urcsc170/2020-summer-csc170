@@ -142,7 +142,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### Project 2: Formatting and Layout
 
-- Watch Project 2 Video (coming soon)
+- Watch [Project 2 Video (Panopto 9:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98b32ebc-693e-49b4-a180-abd401482d71)
 - Do [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Monday, June 15)
 
 ## Wednesday, June 10, 2020
