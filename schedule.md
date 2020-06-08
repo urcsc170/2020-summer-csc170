@@ -138,11 +138,12 @@ This schedule is subject to modification throughout the semester. Always check w
 
 
 ## Monday, June 8, 2020
-- MIDTERM EXAM
+- Midterm exam (between 1:00 and 5:00 PM EDT)
 
-### Project 2
+### Project 2: Formatting and Layout
 
-- Project 2 Instructions
+- Watch Project 2 Video (coming soon)
+- Do [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Monday, June 15)
 
 ## Wednesday, June 10, 2020
 
