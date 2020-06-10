@@ -156,8 +156,10 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ### HTML Forms, Part 1
 
-- HTML Forms, part 1
-- Lab 12: HTML Forms, part 1
+- Watch [Lecture 15 Video: HTML Forms, part 1 (Panopto 51:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da28c918-390d-4fb8-a189-abd601406e42) (due: Friday, June 12)
+  - Associated slides: [HTML Forms, part 1 (PDF)](11b-html-forms1/html-forms1.pdf)
+- Watch Lab 12 Video (coming soon)
+- Do [Lab 12: HTML Forms, part 1](lab12-html-forms1/instructions.md) (due: Friday, June 12)
 
 ## Friday, June 12, 2020
 - Hints & Tips Meeting 3
