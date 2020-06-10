@@ -4,16 +4,23 @@ Introduction to Web Development
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Monday, June 8, 2020
+## Wednesday, June 10, 2020
 
-- Midterm exam (between 1:00 and 5:00 PM EDT)
+###Website Construction, Part 1
 
-### Project 2: Formatting and Layout
+- Watch [Lecture 14 Video: Website Construction, part 1 (Panopto 31:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41230772-1495-4949-9aca-abd501560f49) (due: Friday, June 12)
+  - Associated slides: [Website Construction, part 1 (PDF)](11a-website-construction1/website-construction1.pdf)
+- Watch [Lab 11 Video (Panopto 9:13)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a008885-34e4-4d43-a233-abd600f244fe)
+- Do [Lab 11: PHP Includes](lab11-php-includes/instructions.md) (due: Friday, June 12)
 
-- Watch [Project 2 Video (Panopto 9:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98b32ebc-693e-49b4-a180-abd401482d71)
-- Do [Project 2: Formatting and Layout](project02-formatting-and-layout/instructions.md) (due: Monday, June 15)
+### HTML Forms, Part 1
+
+- HTML Forms, part 1
+- Lab 12: HTML Forms, part 1
 
 
 
-(Look for last Friday's assignments [in the Schedule, here](schedule.md#friday-june-5-2020))
+<hr>
+
+(Find [Project 2 instructions here](project02-formatting-and-layout/instructions.md))
 
