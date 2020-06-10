@@ -147,7 +147,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Wednesday, June 10, 2020
 
-###Website Construction, Part 1
+### Website Construction, Part 1
 
 - Watch [Lecture 14 Video: Website Construction, part 1 (Panopto 31:01)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41230772-1495-4949-9aca-abd501560f49) (due: Friday, June 12)
   - Associated slides: [Website Construction, part 1 (PDF)](11a-website-construction1/website-construction1.pdf)
