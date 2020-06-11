@@ -17,7 +17,7 @@ Introduction to Web Development
 
 - Watch [Lecture 15 Video: HTML Forms, part 1 (Panopto 51:33)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da28c918-390d-4fb8-a189-abd601406e42) (due: Friday, June 12)
   - Associated slides: [HTML Forms, part 1 (PDF)](11b-html-forms1/html-forms1.pdf)
-- Watch Lab 12 Video (coming soon)
+- Watch [Lab 12 Video (Panopto 3:29)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e98b4c3-c639-4e9c-bba9-abd700ff6909)
 - Do [Lab 12: HTML Forms, part 1](lab12-html-forms1/instructions.md) (due: Friday, June 12)
 
 
