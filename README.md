@@ -15,7 +15,8 @@ TODAY: **Hints & Tips Meeting 3 - Help for Project 2**
 
 ### HTML Forms, part 2
 
-- Video for: HTML Forms, part 2 (coming soon)
+- Watch [Lecture 16 Video HTML Forms, part 2 (Panopto 16:37)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86cd8a6f-4eef-4e5c-88e5-abd800d9f376) (due: Monday: June 15)
+  - Associated slides: [HTML Forms, part 2 (PDF)](12a-html-forms2/html-forms2.pdf)
 - Lab 13: HTML Forms, part 2 (coming soon)
 
 
