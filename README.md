@@ -17,7 +17,8 @@ TODAY: **Hints & Tips Meeting 3 - Help for Project 2**
 
 - Watch [Lecture 16 Video HTML Forms, part 2 (Panopto 16:37)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86cd8a6f-4eef-4e5c-88e5-abd800d9f376) (due: Monday: June 15)
   - Associated slides: [HTML Forms, part 2 (PDF)](12a-html-forms2/html-forms2.pdf)
-- Lab 13: HTML Forms, part 2 (coming soon)
+- Do [Lab 13: HTML Forms, part 2](lab13-html-forms2/instructions.md) (due: Monday, June 15)
+  - Watch [Lab 13 Video (Panopto 24:56)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9070c54e-ee77-430c-b49a-ab8d017a24ce) NOTE: for this lab, it's best to start working on the lab *first*, and then when prompted by the instructions watch this video (there's a link in the instructions too)
 
 
 
