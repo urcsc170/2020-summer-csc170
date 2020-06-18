@@ -213,7 +213,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ###Website Construction, Part 2
 
-- Watch [Website Construction, part 2](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
+- Watch [Website Construction, part 2 (Panopto 25:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
 - Do [Lab 16 Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Monday, June 22)
 
 ## Monday, June 22, 2020
