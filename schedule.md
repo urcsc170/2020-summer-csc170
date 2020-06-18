@@ -208,12 +208,13 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ## Friday, June 19, 2020
 
-- Hints & Tips Meeting 4
+- Hints & Tips Meeting 4 - Advice on Project 3
+  - To be rescheduled; watch Slack for an announcement
 
 ###Website Construction, Part 2
 
-- Website Construction, part 2
-- Lab 16: Menu Highlighter
+- Watch [Website Construction, part 2](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
+- Do [Lab 16 Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Monday, June 22)
 
 ## Monday, June 22, 2020
 
