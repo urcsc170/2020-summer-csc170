@@ -13,7 +13,9 @@ Introduction to Web Development
 ### Website Construction, part 2
 
 - Watch [Website Construction, part 2 (Panopto 25:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
+  - [Associated Demo Files (ZIP)](15-website-construction2/menu-highlighter_demo.zip)
 - Do [Lab 16 Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Monday, June 22)
+  - Required [menu-highlighter plugin (ZIP)](lab16-menu-highlighter/menu-highlighter.zip) ...same as in the Associated Demo Files, above
 
 ### Hints & Tips Meeting #4 - Advice on Project 3
 
@@ -25,3 +27,4 @@ Introduction to Web Development
 **Project 3: Multipage Website, underway...**
 - Watch [Project 3 Video (Panopto 13:30)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c20401b-2bb2-47bb-8dfd-abdb00f885ba)
 - Do [Project 3: Multipage Website](project03-multipage-website/instructions.md) (due: Friday, June 26 ...last day of the summer session)
+
