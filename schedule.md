@@ -211,7 +211,7 @@ This schedule is subject to modification throughout the semester. Always check w
 - Hints & Tips Meeting 4 - Advice on Project 3
   - To be rescheduled; watch Slack for an announcement
 
-###Website Construction, Part 2
+### Website Construction, Part 2
 
 - Watch [Lecture 21 Video: Website Construction, part 2 (Panopto 25:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
   - [Associated Demo Files (ZIP)](15-website-construction2/menu-highlighter_demo.zip)
