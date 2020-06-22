@@ -213,25 +213,28 @@ This schedule is subject to modification throughout the semester. Always check w
 
 ###Website Construction, Part 2
 
-- Watch [Website Construction, part 2 (Panopto 25:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
+- Watch [Lecture 21 Video: Website Construction, part 2 (Panopto 25:31)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72626207-7839-4060-be7a-abde00d25f1a) (due: Monday, June 22)
   - [Associated Demo Files (ZIP)](15-website-construction2/menu-highlighter_demo.zip)
 - Do [Lab 16 Menu Highlighter](lab16-menu-highlighter/instructions.md) (due: Monday, June 22)
   - Required [menu-highlighter plugin (ZIP)](lab16-menu-highlighter/menu-highlighter.zip) ...same as in the Associated Demo Files, above
 
 ## Monday, June 22, 2020
 
+Watch: [Announcement about the Final Exam (Panopto 3:20)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0316f24-2313-4d39-be17-abe00132c592)
+
 ### Mobile Design
 
-- Mobile Design
-- Lab 17: Mobile Design
+- Watch [Lecture 22 Video: Mobile Web Design (Panopto 55:19)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=afaa09fc-a256-4b5e-85c7-abde012b7a4c) (due: Wednesday, June 24)
+- Watch [Lab 17 Video (Panopto 23:20)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba99f18d-88e8-4b92-ae95-abde01406231)
+- Do [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Wednesday, June 24)
 
-### Driving Traffic to Websites, Part 1
+### Driving Traffic to Websites, part 1
 
-- Driving Traffic to Websites, part 1
+- Watch [Lecture 23 Video: Driving Traffic to Websites, part 1 (Panopto 20:21)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=052b0308-1c9c-4c5d-a1f2-abe001849026) (due: Wednesday, June 24)
 
 ## Wednesday, June 24, 2020
 
-- Hints & Tips Meeting 5, and Final Exam Prep
+- Hints & Tips Meeting 4 - Project 3 Advice
 
 ### Driving Traffic to Websites, Part 2
 
@@ -239,6 +242,6 @@ This schedule is subject to modification throughout the semester. Always check w
 - Lab 18: Search Engine Optimization
 
 ## Friday, June 26, 2020
-- FINAL EXAM
+- <s>FINAL EXAM</s>
 
 - Note: Project 3 is due
