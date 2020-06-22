@@ -103,7 +103,7 @@ You need to go through each webpage in your website systematically - looking at 
 
 ## Step 3: Check and Upload your Work
 
-- [ ] When you are done with your lab website, upload your files to the usual place in your account on the class webserver
+- When you are done with your lab website, upload your files to the usual place in your account on the class webserver
 
 
 - In a web browser (any), go to this address to check your handiwork:  
