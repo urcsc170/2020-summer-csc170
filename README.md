@@ -12,7 +12,7 @@ Introduction to Web Development
 
 ### Hints & Tips Meeting #4 - Project 3 Advice
 
-- Zoom meeting - recording here, coming soon
+- [Zoom meeting - recording here (Panopto 1:21:03)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b8a059c-2b0f-418e-8b76-abe401662c3c)
 
 ### Driving Traffic to Websites, part 2
 
